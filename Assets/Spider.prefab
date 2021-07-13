@@ -31,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 7540528190628012735}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 27.5, z: 0}
-  m_LocalScale: {x: 10, y: 10, z: 10}
+  m_LocalScale: {x: 20, y: 20, z: 20}
   m_Children:
   - {fileID: 7540528191318050120}
   m_Father: {fileID: 0}
@@ -68,7 +68,7 @@ MonoBehaviour:
   raycastLayers:
     serializedVersion: 2
     m_Bits: 256
-  scale: 1
+  scale: 2
   body: {fileID: 7540528191318050124}
   legs:
   - {fileID: 7540528190399585896}
@@ -87,7 +87,7 @@ MonoBehaviour:
   height: 10
   minHeight: 5
   raycastHeight: 75
-  raycastDistance: 30
+  raycastDistance: 40
 --- !u!114 &7540528190628012724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 445b763a1b1b1ad4eb1b8be7082f5687, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 150
+  speed: 250
 --- !u!135 &7765530623251294432
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -764,7 +764,7 @@ MonoBehaviour:
   stepSpeed: 30
   footHeight: 0.75
   velocityPrediction: 0.0001
-  raycastFocus: 10
+  raycastFocus: 20
   yOffset:
     serializedVersion: 2
     m_Curve:
@@ -791,7 +791,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   foot: {fileID: 0}
   footUpAxis: {x: 0, y: 0, z: 0}
-  footRotationSpeed: 10
+  footRotationSpeed: 30
   sand: {fileID: 0}
 --- !u!1 &7540528191317956874
 GameObject:
@@ -941,7 +941,7 @@ MonoBehaviour:
   stepSpeed: 30
   footHeight: 0.75
   velocityPrediction: 0.0001
-  raycastFocus: 10
+  raycastFocus: 20
   yOffset:
     serializedVersion: 2
     m_Curve:
@@ -968,7 +968,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   foot: {fileID: 0}
   footUpAxis: {x: 0, y: 0, z: 0}
-  footRotationSpeed: 10
+  footRotationSpeed: 30
   sand: {fileID: 0}
 --- !u!1 &7540528191317956876
 GameObject:
@@ -1118,7 +1118,7 @@ MonoBehaviour:
   stepSpeed: 30
   footHeight: 0.75
   velocityPrediction: 0.0001
-  raycastFocus: 10
+  raycastFocus: 20
   yOffset:
     serializedVersion: 2
     m_Curve:
@@ -1145,7 +1145,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   foot: {fileID: 0}
   footUpAxis: {x: 0, y: 0, z: 0}
-  footRotationSpeed: 10
+  footRotationSpeed: 30
   sand: {fileID: 0}
 --- !u!1 &7540528191317956878
 GameObject:
@@ -1295,7 +1295,7 @@ MonoBehaviour:
   stepSpeed: 30
   footHeight: 0.75
   velocityPrediction: 0.0001
-  raycastFocus: 10
+  raycastFocus: 20
   yOffset:
     serializedVersion: 2
     m_Curve:
@@ -1322,7 +1322,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   foot: {fileID: 0}
   footUpAxis: {x: 0, y: 0, z: 0}
-  footRotationSpeed: 10
+  footRotationSpeed: 30
   sand: {fileID: 0}
 --- !u!1 &7540528191317956880
 GameObject:
@@ -2581,7 +2581,7 @@ MonoBehaviour:
   stepSpeed: 30
   footHeight: 0.75
   velocityPrediction: 0.0001
-  raycastFocus: 10
+  raycastFocus: 20
   yOffset:
     serializedVersion: 2
     m_Curve:
@@ -2608,7 +2608,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   foot: {fileID: 0}
   footUpAxis: {x: 0, y: 0, z: 0}
-  footRotationSpeed: 10
+  footRotationSpeed: 30
   sand: {fileID: 0}
 --- !u!1 &7540528191317956986
 GameObject:
@@ -2758,7 +2758,7 @@ MonoBehaviour:
   stepSpeed: 30
   footHeight: 0.75
   velocityPrediction: 0.0001
-  raycastFocus: 10
+  raycastFocus: 20
   yOffset:
     serializedVersion: 2
     m_Curve:
@@ -2785,7 +2785,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   foot: {fileID: 0}
   footUpAxis: {x: 0, y: 0, z: 0}
-  footRotationSpeed: 10
+  footRotationSpeed: 30
   sand: {fileID: 0}
 --- !u!1 &7540528191317956988
 GameObject:
@@ -2935,7 +2935,7 @@ MonoBehaviour:
   stepSpeed: 30
   footHeight: 0.75
   velocityPrediction: 0.0001
-  raycastFocus: 10
+  raycastFocus: 20
   yOffset:
     serializedVersion: 2
     m_Curve:
@@ -2962,7 +2962,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   foot: {fileID: 0}
   footUpAxis: {x: 0, y: 0, z: 0}
-  footRotationSpeed: 10
+  footRotationSpeed: 30
   sand: {fileID: 0}
 --- !u!1 &7540528191317956990
 GameObject:
@@ -3112,7 +3112,7 @@ MonoBehaviour:
   stepSpeed: 30
   footHeight: 0.75
   velocityPrediction: 0.0001
-  raycastFocus: 10
+  raycastFocus: 20
   yOffset:
     serializedVersion: 2
     m_Curve:
@@ -3139,5 +3139,5 @@ MonoBehaviour:
     m_RotationOrder: 4
   foot: {fileID: 0}
   footUpAxis: {x: 0, y: 0, z: 0}
-  footRotationSpeed: 10
+  footRotationSpeed: 30
   sand: {fileID: 0}
