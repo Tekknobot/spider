@@ -14,8 +14,11 @@ public class Sphere : MonoBehaviour
     {
         if (other.tag == "Helper")
         {
-            GetComponent<MeshRenderer>().material.color = new Color32(255, 0, 70, 1);
-            SumScore.Add(1);
+            if (GetComponent<MeshRenderer>().material.color != new Color32(255, 0, 70, 1))
+            {
+                GetComponent<MeshRenderer>().material.color = new Color32(255, 0, 70, 1);
+                SumScore.Add(1);
+            }
         }
     }
 }
