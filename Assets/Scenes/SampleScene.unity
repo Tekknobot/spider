@@ -5278,7 +5278,12 @@ PrefabInstance:
     - target: {fileID: 5471342770915144497, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
       propertyPath: raycastDistance
-      value: 25
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471342770915144497, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
+        type: 3}
+      propertyPath: raycastHeight
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 5471342770915144504, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
@@ -5353,6 +5358,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7540528190628012721, guid: 13be4768944938242aadef2aacde328d,
+        type: 3}
+      propertyPath: raycastDistance
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7540528190628012721, guid: 13be4768944938242aadef2aacde328d,
+        type: 3}
+      propertyPath: raycastHeight
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 7540528190628012735, guid: 13be4768944938242aadef2aacde328d,
         type: 3}
