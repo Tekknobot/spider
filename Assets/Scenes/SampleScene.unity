@@ -5255,6 +5255,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471342770915144497, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
+        type: 3}
+      propertyPath: scale
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471342770915144497, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
+        type: 3}
+      propertyPath: raycastDistance
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471342770915144504, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
+        type: 3}
+      propertyPath: speed
+      value: 250
+      objectReference: {fileID: 0}
     - target: {fileID: 5471342770915144511, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
       propertyPath: m_Name
