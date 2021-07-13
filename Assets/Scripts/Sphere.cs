@@ -12,7 +12,7 @@ public class Sphere : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (GetComponent<MeshRenderer>().material.color != new Color32(255, 0, 70, 1))
+        if (other.tag == "Helper")
         {
             GetComponent<MeshRenderer>().material.color = new Color32(255, 0, 70, 1);
             SumScore.Add(1);
