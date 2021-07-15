@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 29372815}
   m_Layer: 8
   m_Name: Capsule (44)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 60624618}
   m_Layer: 8
   m_Name: Capsule (51)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -323,7 +323,7 @@ GameObject:
   - component: {fileID: 84649940}
   m_Layer: 8
   m_Name: Capsule (28)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -417,7 +417,7 @@ GameObject:
   - component: {fileID: 96328076}
   m_Layer: 8
   m_Name: Capsule (25)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -511,7 +511,7 @@ GameObject:
   - component: {fileID: 155693421}
   m_Layer: 8
   m_Name: Capsule (54)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -728,7 +728,7 @@ GameObject:
   - component: {fileID: 269951125}
   m_Layer: 8
   m_Name: Capsule (48)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1301,7 +1301,7 @@ GameObject:
   - component: {fileID: 357958153}
   m_Layer: 8
   m_Name: Capsule (8)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1395,7 +1395,7 @@ GameObject:
   - component: {fileID: 362521373}
   m_Layer: 8
   m_Name: Capsule (21)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1489,7 +1489,7 @@ GameObject:
   - component: {fileID: 377248002}
   m_Layer: 8
   m_Name: Capsule (57)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1583,7 +1583,7 @@ GameObject:
   - component: {fileID: 420875493}
   m_Layer: 8
   m_Name: Capsule (62)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1677,7 +1677,7 @@ GameObject:
   - component: {fileID: 443962984}
   m_Layer: 8
   m_Name: Capsule (35)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1771,7 +1771,7 @@ GameObject:
   - component: {fileID: 525334263}
   m_Layer: 8
   m_Name: Capsule (64)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1865,7 +1865,7 @@ GameObject:
   - component: {fileID: 582942974}
   m_Layer: 8
   m_Name: Capsule (65)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2082,7 +2082,7 @@ GameObject:
   - component: {fileID: 619033501}
   m_Layer: 8
   m_Name: Capsule (80)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2206,7 +2206,7 @@ GameObject:
   - component: {fileID: 639106466}
   m_Layer: 8
   m_Name: Capsule (10)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2300,7 +2300,7 @@ GameObject:
   - component: {fileID: 653464934}
   m_Layer: 8
   m_Name: Capsule (45)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2394,7 +2394,7 @@ GameObject:
   - component: {fileID: 692784572}
   m_Layer: 8
   m_Name: Capsule (22)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2611,7 +2611,7 @@ GameObject:
   - component: {fileID: 696296875}
   m_Layer: 8
   m_Name: Capsule (70)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2797,7 +2797,7 @@ GameObject:
   - component: {fileID: 710560988}
   m_Layer: 8
   m_Name: Capsule (32)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2891,7 +2891,7 @@ GameObject:
   - component: {fileID: 728627831}
   m_Layer: 8
   m_Name: Capsule (82)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2985,7 +2985,7 @@ GameObject:
   - component: {fileID: 756591353}
   m_Layer: 8
   m_Name: Capsule (89)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3079,7 +3079,7 @@ GameObject:
   - component: {fileID: 802743070}
   m_Layer: 8
   m_Name: Capsule (20)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3296,7 +3296,7 @@ GameObject:
   - component: {fileID: 814955236}
   m_Layer: 8
   m_Name: Capsule (86)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3390,7 +3390,7 @@ GameObject:
   - component: {fileID: 819075176}
   m_Layer: 8
   m_Name: Capsule (56)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3484,7 +3484,7 @@ GameObject:
   - component: {fileID: 847269892}
   m_Layer: 8
   m_Name: Capsule (71)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3578,7 +3578,7 @@ GameObject:
   - component: {fileID: 857914301}
   m_Layer: 8
   m_Name: Capsule (73)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3672,7 +3672,7 @@ GameObject:
   - component: {fileID: 885093797}
   m_Layer: 8
   m_Name: Capsule (49)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3766,7 +3766,7 @@ GameObject:
   - component: {fileID: 891593472}
   m_Layer: 8
   m_Name: Capsule
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3860,7 +3860,7 @@ GameObject:
   - component: {fileID: 905602281}
   m_Layer: 8
   m_Name: Capsule (24)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3954,7 +3954,7 @@ GameObject:
   - component: {fileID: 907169835}
   m_Layer: 8
   m_Name: Capsule (19)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4260,7 +4260,7 @@ GameObject:
   - component: {fileID: 986037784}
   m_Layer: 8
   m_Name: Capsule (87)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4354,7 +4354,7 @@ GameObject:
   - component: {fileID: 999084085}
   m_Layer: 8
   m_Name: Capsule (37)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4945,6 +4945,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   laser: {fileID: 1962479828434100, guid: b478a3c4c8ae3bb42a5785ab95bcf6d3, type: 3}
   firePoint: {fileID: 1046614685}
+  laserInstance: {fileID: 0}
+  laserOn: 1
 --- !u!114 &1011728256
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4957,7 +4959,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b490cfefa3d3b164eabcc79d7fe8be8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startHealth: 100
+  startHealth: 150
   health: 0
   rend: {fileID: 1011728253}
 --- !u!1 &1012131560
@@ -4974,7 +4976,7 @@ GameObject:
   - component: {fileID: 1012131562}
   m_Layer: 8
   m_Name: Capsule (34)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5099,7 +5101,7 @@ GameObject:
   - component: {fileID: 1037140480}
   m_Layer: 8
   m_Name: Capsule (91)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5223,7 +5225,7 @@ GameObject:
   - component: {fileID: 1066931434}
   m_Layer: 8
   m_Name: Capsule (40)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5317,7 +5319,7 @@ GameObject:
   - component: {fileID: 1068059112}
   m_Layer: 8
   m_Name: Capsule (2)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5537,6 +5539,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   laser: {fileID: 1962479828434100, guid: b478a3c4c8ae3bb42a5785ab95bcf6d3, type: 3}
   firePoint: {fileID: 1563523449}
+  laserInstance: {fileID: 0}
+  laserOn: 1
 --- !u!1 &1102566521
 GameObject:
   m_ObjectHideFlags: 0
@@ -5581,7 +5585,7 @@ GameObject:
   - component: {fileID: 1105310948}
   m_Layer: 8
   m_Name: Capsule (16)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5675,7 +5679,7 @@ GameObject:
   - component: {fileID: 1128371108}
   m_Layer: 8
   m_Name: Capsule (69)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6278,7 +6282,7 @@ GameObject:
   - component: {fileID: 1184372065}
   m_Layer: 8
   m_Name: Capsule (72)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6495,7 +6499,7 @@ GameObject:
   - component: {fileID: 1197193063}
   m_Layer: 8
   m_Name: Capsule (36)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6589,7 +6593,7 @@ GameObject:
   - component: {fileID: 1198378948}
   m_Layer: 8
   m_Name: Capsule (11)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6683,7 +6687,7 @@ GameObject:
   - component: {fileID: 1216020857}
   m_Layer: 8
   m_Name: Capsule (81)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6815,7 +6819,7 @@ GameObject:
   - component: {fileID: 1225743303}
   m_Layer: 8
   m_Name: Capsule (38)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7406,6 +7410,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   laser: {fileID: 1962479828434100, guid: b478a3c4c8ae3bb42a5785ab95bcf6d3, type: 3}
   firePoint: {fileID: 1150657380}
+  laserInstance: {fileID: 0}
+  laserOn: 1
 --- !u!114 &1272856442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7418,7 +7424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b490cfefa3d3b164eabcc79d7fe8be8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startHealth: 100
+  startHealth: 150
   health: 0
   rend: {fileID: 1272856439}
 --- !u!1 &1300043327
@@ -7435,7 +7441,7 @@ GameObject:
   - component: {fileID: 1300043329}
   m_Layer: 8
   m_Name: Capsule (5)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7535,7 +7541,7 @@ GameObject:
   - component: {fileID: 1318047334}
   m_Layer: 8
   m_Name: Capsule (55)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7629,7 +7635,7 @@ GameObject:
   - component: {fileID: 1348203165}
   m_Layer: 8
   m_Name: Capsule (63)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7723,7 +7729,7 @@ GameObject:
   - component: {fileID: 1366703567}
   m_Layer: 8
   m_Name: Capsule (61)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7821,7 +7827,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b490cfefa3d3b164eabcc79d7fe8be8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startHealth: 100
+  startHealth: 150
   health: 0
   rend: {fileID: 1585027786}
 --- !u!114 &1372504649
@@ -7838,6 +7844,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   laser: {fileID: 1962479828434100, guid: b478a3c4c8ae3bb42a5785ab95bcf6d3, type: 3}
   firePoint: {fileID: 1102566521}
+  laserInstance: {fileID: 0}
+  laserOn: 1
 --- !u!4 &1372504657 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
@@ -7858,7 +7866,7 @@ GameObject:
   - component: {fileID: 1375006380}
   m_Layer: 8
   m_Name: Capsule (67)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7952,7 +7960,7 @@ GameObject:
   - component: {fileID: 1376443157}
   m_Layer: 8
   m_Name: Capsule (42)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8046,7 +8054,7 @@ GameObject:
   - component: {fileID: 1398750858}
   m_Layer: 8
   m_Name: Capsule (52)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8140,7 +8148,7 @@ GameObject:
   - component: {fileID: 1400026834}
   m_Layer: 8
   m_Name: Capsule (1)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8234,7 +8242,7 @@ GameObject:
   - component: {fileID: 1435844985}
   m_Layer: 8
   m_Name: Capsule (26)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8332,7 +8340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b490cfefa3d3b164eabcc79d7fe8be8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startHealth: 100
+  startHealth: 150
   health: 0
   rend: {fileID: 1306587534}
 --- !u!114 &1459554373
@@ -8349,6 +8357,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   laser: {fileID: 1962479828434100, guid: b478a3c4c8ae3bb42a5785ab95bcf6d3, type: 3}
   firePoint: {fileID: 621700288}
+  laserInstance: {fileID: 0}
+  laserOn: 1
 --- !u!4 &1459554381 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
@@ -8369,7 +8379,7 @@ GameObject:
   - component: {fileID: 1478123392}
   m_Layer: 8
   m_Name: Capsule (29)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8475,6 +8485,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   laser: {fileID: 1962479828434100, guid: b478a3c4c8ae3bb42a5785ab95bcf6d3, type: 3}
   firePoint: {fileID: 1678208005}
+  laserInstance: {fileID: 0}
+  laserOn: 1
 --- !u!114 &1481556804
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8487,7 +8499,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b490cfefa3d3b164eabcc79d7fe8be8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startHealth: 100
+  startHealth: 150
   health: 0
   rend: {fileID: 939312567}
 --- !u!1 &1499255307
@@ -8504,7 +8516,7 @@ GameObject:
   - component: {fileID: 1499255309}
   m_Layer: 8
   m_Name: Capsule (15)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8822,7 +8834,7 @@ GameObject:
   - component: {fileID: 1558951797}
   m_Layer: 8
   m_Name: Capsule (90)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8916,7 +8928,7 @@ GameObject:
   - component: {fileID: 1562906300}
   m_Layer: 8
   m_Name: Capsule (23)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9005,6 +9017,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1563523450}
+  - component: {fileID: 1563523451}
   m_Layer: 10
   m_Name: FIrePoint
   m_TagString: Untagged
@@ -9020,12 +9033,26 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1563523449}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 1.13, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4258573400431122873}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1563523451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563523449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c4c225631a20e418b30e24c5c445d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spider: {fileID: 1086296142}
+  cam: {fileID: 963194227}
 --- !u!137 &1585027786 stripped
 SkinnedMeshRenderer:
   m_CorrespondingSourceObject: {fileID: 5471342772436600196, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
@@ -9046,7 +9073,7 @@ GameObject:
   - component: {fileID: 1598576397}
   m_Layer: 8
   m_Name: Capsule (41)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9140,7 +9167,7 @@ GameObject:
   - component: {fileID: 1610992339}
   m_Layer: 8
   m_Name: Capsule (9)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9234,7 +9261,7 @@ GameObject:
   - component: {fileID: 1650145147}
   m_Layer: 8
   m_Name: Capsule (85)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9328,7 +9355,7 @@ GameObject:
   - component: {fileID: 1657340679}
   m_Layer: 8
   m_Name: Capsule (12)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9422,7 +9449,7 @@ GameObject:
   - component: {fileID: 1669799446}
   m_Layer: 8
   m_Name: Capsule (68)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9516,7 +9543,7 @@ GameObject:
   - component: {fileID: 1672503605}
   m_Layer: 8
   m_Name: Capsule (33)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9724,7 +9751,7 @@ GameObject:
   - component: {fileID: 1777504123}
   m_Layer: 8
   m_Name: Capsule (83)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9818,7 +9845,7 @@ GameObject:
   - component: {fileID: 1790579352}
   m_Layer: 8
   m_Name: Capsule (7)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9912,7 +9939,7 @@ GameObject:
   - component: {fileID: 1802407175}
   m_Layer: 8
   m_Name: Capsule (6)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10006,7 +10033,7 @@ GameObject:
   - component: {fileID: 1809252349}
   m_Layer: 8
   m_Name: Capsule (75)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10100,7 +10127,7 @@ GameObject:
   - component: {fileID: 1827050228}
   m_Layer: 8
   m_Name: Capsule (78)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10194,7 +10221,7 @@ GameObject:
   - component: {fileID: 1829962888}
   m_Layer: 8
   m_Name: Capsule (3)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10288,7 +10315,7 @@ GameObject:
   - component: {fileID: 1864471657}
   m_Layer: 8
   m_Name: Capsule (31)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10382,7 +10409,7 @@ GameObject:
   - component: {fileID: 1875746428}
   m_Layer: 8
   m_Name: Capsule (27)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10476,7 +10503,7 @@ GameObject:
   - component: {fileID: 1877936505}
   m_Layer: 8
   m_Name: Capsule (17)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10570,7 +10597,7 @@ GameObject:
   - component: {fileID: 1878727403}
   m_Layer: 8
   m_Name: Capsule (84)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10730,7 +10757,7 @@ GameObject:
   - component: {fileID: 1918926611}
   m_Layer: 8
   m_Name: Capsule (30)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10947,7 +10974,7 @@ GameObject:
   - component: {fileID: 1938770797}
   m_Layer: 8
   m_Name: Capsule (4)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11041,7 +11068,7 @@ GameObject:
   - component: {fileID: 1941576311}
   m_Layer: 8
   m_Name: Capsule (76)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11135,7 +11162,7 @@ GameObject:
   - component: {fileID: 1946652989}
   m_Layer: 8
   m_Name: Capsule (60)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11352,7 +11379,7 @@ GameObject:
   - component: {fileID: 1982612702}
   m_Layer: 8
   m_Name: Capsule (14)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11446,7 +11473,7 @@ GameObject:
   - component: {fileID: 1985720321}
   m_Layer: 8
   m_Name: Capsule (50)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11540,7 +11567,7 @@ GameObject:
   - component: {fileID: 1988526529}
   m_Layer: 8
   m_Name: Capsule (88)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11634,7 +11661,7 @@ GameObject:
   - component: {fileID: 1988759485}
   m_Layer: 8
   m_Name: Capsule (47)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11728,7 +11755,7 @@ GameObject:
   - component: {fileID: 2006893777}
   m_Layer: 8
   m_Name: Capsule (66)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11822,7 +11849,7 @@ GameObject:
   - component: {fileID: 2014234267}
   m_Layer: 8
   m_Name: Capsule (18)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11916,7 +11943,7 @@ GameObject:
   - component: {fileID: 2027459081}
   m_Layer: 8
   m_Name: Capsule (74)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12010,7 +12037,7 @@ GameObject:
   - component: {fileID: 2035870546}
   m_Layer: 8
   m_Name: Capsule (39)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12104,7 +12131,7 @@ GameObject:
   - component: {fileID: 2037405064}
   m_Layer: 8
   m_Name: Capsule (13)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12198,7 +12225,7 @@ GameObject:
   - component: {fileID: 2049229670}
   m_Layer: 8
   m_Name: Capsule (53)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12292,7 +12319,7 @@ GameObject:
   - component: {fileID: 2050034831}
   m_Layer: 8
   m_Name: Capsule (77)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12386,7 +12413,7 @@ GameObject:
   - component: {fileID: 2092755348}
   m_Layer: 8
   m_Name: Capsule (59)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12480,7 +12507,7 @@ GameObject:
   - component: {fileID: 2102423341}
   m_Layer: 8
   m_Name: Capsule (43)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12697,7 +12724,7 @@ GameObject:
   - component: {fileID: 2140060375}
   m_Layer: 8
   m_Name: Capsule (79)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12818,7 +12845,7 @@ PrefabInstance:
     - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
@@ -12828,7 +12855,7 @@ PrefabInstance:
     - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
@@ -12843,7 +12870,7 @@ PrefabInstance:
     - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 5471342770915144496, guid: 6e15cc702d2ba964ba1b285e276dc3ab,
         type: 3}
@@ -13779,6 +13806,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 7765530623251294432, guid: 13be4768944938242aadef2aacde328d,
+        type: 3}
+      propertyPath: m_Radius
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8083008648353193096, guid: 13be4768944938242aadef2aacde328d,
         type: 3}
       propertyPath: m_Mass
@@ -13788,6 +13820,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_UseGravity
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8083008648353193096, guid: 13be4768944938242aadef2aacde328d,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8083008648353193096, guid: 13be4768944938242aadef2aacde328d,
+        type: 3}
+      propertyPath: m_Interpolate
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13be4768944938242aadef2aacde328d, type: 3}

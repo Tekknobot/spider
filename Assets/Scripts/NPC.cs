@@ -19,7 +19,7 @@ public class NPC : MonoBehaviour
         transform.position += transform.forward * Time.deltaTime * speed;
     }
 
-    void OnTriggerStay(Collider other)
+    void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Helper")
         {

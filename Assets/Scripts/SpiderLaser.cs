@@ -7,9 +7,11 @@ public class SpiderLaser : MonoBehaviour
     public GameObject laser;
     public GameObject firePoint;
 
-    private GameObject laserInstance;
+    public GameObject laserInstance;
     private Hovl_Laser LaserScript;
     private Hovl_Laser2 LaserScript2;
+
+    public bool laserOn = true;
 
     // Start is called before the first frame update
     void Start()
@@ -26,7 +28,7 @@ public class SpiderLaser : MonoBehaviour
             laserInstance.transform.parent = transform;
             LaserScript = laserInstance.GetComponent<Hovl_Laser>();
             LaserScript2 = laserInstance.GetComponent<Hovl_Laser2>();
-            //StartCoroutine(StopLaser());
+            GetComponent<MoveSpider>().speed = 0;
         }
 
         if (Input.GetKeyUp(KeyCode.Space))
@@ -34,14 +36,7 @@ public class SpiderLaser : MonoBehaviour
             if (LaserScript) LaserScript.DisablePrepare();
             if (LaserScript2) LaserScript2.DisablePrepare();
             Destroy(laserInstance, 0.5f);
+            GetComponent<MoveSpider>().speed = 250;
         }
-    }
-
-    IEnumerator StopLaser()
-    {
-        yield return new WaitForSeconds(0.5f);
-        if (LaserScript) LaserScript.DisablePrepare();
-        if (LaserScript2) LaserScript2.DisablePrepare();
-        Destroy(laserInstance, 0.5f);
     }
 }
