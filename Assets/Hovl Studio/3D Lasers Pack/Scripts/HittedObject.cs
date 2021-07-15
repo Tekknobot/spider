@@ -9,6 +9,8 @@ public class HittedObject : MonoBehaviour
     public float health;
     public SkinnedMeshRenderer rend;
 
+    public LineRenderer lineRend;
+
     // Use this for initialization
     void Start()
     {

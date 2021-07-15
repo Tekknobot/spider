@@ -7,6 +7,10 @@ public class LaserLook : MonoBehaviour
     public GameObject spider;
     public Camera cam;
 
+    public LineRenderer aimTarget;
+    public GameObject firePoint;
+    public GameObject lookAt;
+
     public GameObject FindClosestEnemy()
     {
         GameObject[] gos;
@@ -30,24 +34,22 @@ public class LaserLook : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Vector3.Distance(FindClosestEnemy().transform.position, transform.position) < 1000)
+        if (Vector3.Distance(FindClosestEnemy().transform.position, spider.transform.position) < 1000)
         {
-            transform.LookAt(FindClosestEnemy().transform);
             RaycastHit hit;
-            if (Physics.Raycast(transform.position, Vector3.forward, out hit, 2000))
+            if (Physics.Raycast(firePoint.transform.position, Vector3.forward, out hit, 2000f))
             {
-                if (hit.transform.tag == "NPC")
+                if (hit.transform.tag != "NPC")
                 {
-                    spider.transform.LookAt(FindClosestEnemy().transform);
-                    spider.GetComponent<MoveSpider>().speed = 0;
+                    aimTarget.SetPosition(0, firePoint.transform.position);
+                    aimTarget.SetPosition(1, FindClosestEnemy().transform.position);
+                    transform.LookAt(FindClosestEnemy().transform);
                 }
             }
-
-            if (hit.transform.tag == "Terrain")
-            {
-                spider.GetComponent<MoveSpider>().speed = 250;
-                transform.position = transform.position;
-            }
+        }
+        else
+        {
+            transform.LookAt(lookAt.transform);
         }
     }
 }

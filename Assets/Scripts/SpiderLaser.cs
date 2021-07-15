@@ -11,8 +11,6 @@ public class SpiderLaser : MonoBehaviour
     private Hovl_Laser LaserScript;
     private Hovl_Laser2 LaserScript2;
 
-    public bool laserOn = true;
-
     // Start is called before the first frame update
     void Start()
     {
