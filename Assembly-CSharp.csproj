@@ -42,6 +42,7 @@
      <Compile Include="Assets\Hovl Studio\3D Lasers Pack\Scripts\Hovl_Laser2.cs" />
      <Compile Include="Assets\Hovl Studio\3D Lasers Pack\Scripts\Hovl_LaserDemo.cs" />
      <Compile Include="Assets\Scripts\DestroyObject.cs" />
+     <Compile Include="Assets\Scripts\EnemyTotal.cs" />
      <Compile Include="Assets\Scripts\MoveCamera.cs" />
      <Compile Include="Assets\Scripts\MoveSpider.cs" />
      <Compile Include="Assets\Scripts\NPC.cs" />

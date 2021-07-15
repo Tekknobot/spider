@@ -23,7 +23,7 @@ public class NPC : MonoBehaviour
     {
         if (other.tag == "Helper")
         {
-            //SceneManager.LoadScene(0);
+            SceneManager.LoadScene(0);
         }
     }
 }

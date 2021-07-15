@@ -26,6 +26,7 @@ public class SpiderLaser : MonoBehaviour
             laserInstance.transform.parent = transform;
             LaserScript = laserInstance.GetComponent<Hovl_Laser>();
             LaserScript2 = laserInstance.GetComponent<Hovl_Laser2>();
+            //StartCoroutine(StopLaser());
         }
 
         if (Input.GetKeyUp(KeyCode.Space))
@@ -34,5 +35,13 @@ public class SpiderLaser : MonoBehaviour
             if (LaserScript2) LaserScript2.DisablePrepare();
             Destroy(laserInstance, 0.5f);
         }
+    }
+
+    IEnumerator StopLaser()
+    {
+        yield return new WaitForSeconds(0.5f);
+        if (LaserScript) LaserScript.DisablePrepare();
+        if (LaserScript2) LaserScript2.DisablePrepare();
+        Destroy(laserInstance, 0.5f);
     }
 }

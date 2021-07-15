@@ -17,7 +17,7 @@ public class Hovl_Laser : MonoBehaviour
 
     public float MainTextureLength = 1f;
     public float NoiseTextureLength = 1f;
-    private Vector4 Length = new Vector4(1,1,1,1);
+    private Vector4 Length = new Vector4(1, 1, 1, 1);
     //private Vector4 LaserSpeed = new Vector4(0, 0, 0, 0); {DISABLED AFTER UPDATE}
     //private Vector4 LaserStartSpeed; {DISABLED AFTER UPDATE}
     //One activation per shoot
@@ -27,7 +27,7 @@ public class Hovl_Laser : MonoBehaviour
     private ParticleSystem[] Effects;
     private ParticleSystem[] Hit;
 
-    void Start ()
+    void Start()
     {
         //Get LineRender and ParticleSystem components from current prefab;  
         Laser = GetComponent<LineRenderer>();
@@ -43,7 +43,7 @@ public class Hovl_Laser : MonoBehaviour
     {
         //if (Laser.material.HasProperty("_SpeedMainTexUVNoiseZW")) Laser.material.SetVector("_SpeedMainTexUVNoiseZW", LaserSpeed);
         //SetVector("_TilingMainTexUVNoiseZW", Length); - old code, _TilingMainTexUVNoiseZW no more exist
-        Laser.material.SetTextureScale("_MainTex", new Vector2(Length[0], Length[1]));                    
+        Laser.material.SetTextureScale("_MainTex", new Vector2(Length[0], Length[1]));
         Laser.material.SetTextureScale("_Noise", new Vector2(Length[2], Length[3]));
         //To set LineRender position
         if (Laser != null && UpdateSaver == false)
@@ -56,7 +56,7 @@ public class Hovl_Laser : MonoBehaviour
                 //End laser position if collides with object
                 Laser.SetPosition(1, hit.point);
 
-                    HitEffect.transform.position = hit.point + hit.normal * HitOffset;
+                HitEffect.transform.position = hit.point + hit.normal * HitOffset;
                 if (useLaserRotation)
                     HitEffect.transform.rotation = transform.rotation;
                 else
@@ -74,10 +74,10 @@ public class Hovl_Laser : MonoBehaviour
                 //LaserSpeed[2] = (LaserStartSpeed[2] * 4) / (Vector3.Distance(transform.position, hit.point));
                 //Destroy(hit.transform.gameObject); // destroy the object hit
                 //hit.collider.SendMessage("SomeMethod"); // example
-                /*if (hit.collider.tag == "Enemy")
+                if (hit.collider.tag == "NPC")
                 {
                     hit.collider.GetComponent<HittedObject>().TakeDamage(damageOverTime * Time.deltaTime);
-                }*/
+                }
             }
             else
             {
@@ -101,7 +101,7 @@ public class Hovl_Laser : MonoBehaviour
                 LaserSaver = true;
                 Laser.enabled = true;
             }
-        }  
+        }
     }
 
     public void DisablePrepare()

@@ -47649,7 +47649,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ea4308861e24ac4caa06d26e151d595, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageOverTime: 30
+  damageOverTime: 1000
   HitEffect: {fileID: 1132006484797202}
   HitOffset: 0.001
   useLaserRotation: 0
