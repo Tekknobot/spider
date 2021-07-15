@@ -36,18 +36,31 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Hovl Studio\3D Lasers Pack\Scripts\HittedObject.cs" />
+     <Compile Include="Assets\Hovl Studio\3D Lasers Pack\Scripts\Hovl_DemoLasers.cs" />
+     <Compile Include="Assets\Hovl Studio\3D Lasers Pack\Scripts\Hovl_Laser.cs" />
+     <Compile Include="Assets\Hovl Studio\3D Lasers Pack\Scripts\Hovl_Laser2.cs" />
+     <Compile Include="Assets\Hovl Studio\3D Lasers Pack\Scripts\Hovl_LaserDemo.cs" />
+     <Compile Include="Assets\Scripts\DestroyObject.cs" />
      <Compile Include="Assets\Scripts\MoveCamera.cs" />
      <Compile Include="Assets\Scripts\MoveSpider.cs" />
      <Compile Include="Assets\Scripts\NPC.cs" />
      <Compile Include="Assets\Scripts\RotateCamera.cs" />
      <Compile Include="Assets\Scripts\ScoreTrigger.cs" />
      <Compile Include="Assets\Scripts\Sphere.cs" />
+     <Compile Include="Assets\Scripts\SpiderLaser.cs" />
      <Compile Include="Assets\Scripts\Zoom.cs" />
      <Compile Include="Assets\sumScore\Example\SumScoreExample.cs" />
      <Compile Include="Assets\sumScore\Scripts\SumScore.cs" />
      <Compile Include="Assets\sumScore\Scripts\SumScoreManager.cs" />
+     <None Include="Assets\Hovl Studio\3D Lasers Pack\Prefabs\Readme.txt" />
      <None Include="Assets\sumScore\LICENSE.txt" />
      <None Include="Assets\sumScore\README.md.txt" />
+     <None Include="Assets\Hovl Studio\3D Lasers Pack\Demo scene lasers\If you want to use lasers in 2D.txt" />
+     <None Include="Assets\Hovl Studio\3D Lasers Pack\Shaders\Blend_CenterGlow.shader" />
+     <None Include="Assets\Hovl Studio\3D Lasers Pack\Demo scene lasers\Readme.txt" />
+     <None Include="Assets\Hovl Studio\3D Lasers Pack\Shaders\Add_CenterGlow.shader" />
+     <None Include="Assets\Hovl Studio\3D Lasers Pack\Scripts\Readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
