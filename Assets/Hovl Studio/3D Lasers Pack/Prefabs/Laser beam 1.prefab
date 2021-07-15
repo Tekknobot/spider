@@ -4983,7 +4983,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.34577632, g: 1, b: 0, a: 0.5019608}
+      maxColor: {r: 1, g: 0, b: 0.27450982, a: 0.5019608}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -9754,8 +9754,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 0, g: 1, b: 0.15304017, a: 1}
-      maxColor: {r: 0.16509432, g: 1, b: 0.3581663, a: 1}
+      minColor: {r: 1, g: 0, b: 0.27450982, a: 1}
+      maxColor: {r: 1, g: 0, b: 0.27450982, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -14511,7 +14511,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.34577632, g: 1, b: 0, a: 0.5019608}
+      maxColor: {r: 1, g: 0, b: 0.27450982, a: 0.5019608}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -28790,8 +28790,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 0, g: 1, b: 0.15304017, a: 1}
-      maxColor: {r: 0.16509432, g: 1, b: 0.3581663, a: 1}
+      minColor: {r: 1, g: 0, b: 0.27450982, a: 1}
+      maxColor: {r: 1, g: 0, b: 0.27450982, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -38308,7 +38308,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.5253895, g: 1, b: 0.45882356, a: 0.5019608}
+      maxColor: {r: 1, g: 0, b: 0.27450982, a: 0.5019608}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -47649,7 +47649,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ea4308861e24ac4caa06d26e151d595, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageOverTime: 1000
+  damageOverTime: 200
   HitEffect: {fileID: 1132006484797202}
   HitOffset: 0.001
   useLaserRotation: 0
@@ -47727,8 +47727,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.2688679, g: 1, b: 0.2688679, a: 1}
-      key1: {r: 0, g: 1, b: 0, a: 1}
+      key0: {r: 1, g: 0, b: 0.27450982, a: 1}
+      key1: {r: 1, g: 0, b: 0.27450982, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -47984,7 +47984,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.1745283, g: 1, b: 0.1764706, a: 1}
+      maxColor: {r: 1, g: 0, b: 0.27450982, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
